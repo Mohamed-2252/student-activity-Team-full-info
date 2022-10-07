@@ -19,3 +19,9 @@ This site is an example for what commonly required for student activities portfo
 
 ## View at
 https://live-in-mars.000webhostapp.com
+
+
+## Team name 
+LIM - Live in Mars
+
+*site without back end
